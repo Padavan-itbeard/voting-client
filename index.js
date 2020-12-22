@@ -1,0 +1,1 @@
+console.log('Ghbdtn :>> ', 10);
